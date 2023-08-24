@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dff1e49a-5abc-4037-b093-77e65f1d0573" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FrontEnd/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/Pages/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/Pages/Start.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/Pages/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/Pages/adminStyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/app/Calculators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/components/CarStep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/components/DateStep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/components/NameStep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/components/Refund.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/components/SummaryStep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/context/LimitsContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/routes/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FrontEnd/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/java/MaksymVyduta/JavaServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/main/java/MaksymVyduta/Limits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/src/test/java/GetAndPutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/target/classes/MaksymVyduta/JavaServer$ClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/target/classes/MaksymVyduta/JavaServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/target/classes/MaksymVyduta/Limits.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/target/test-classes/GetAndPutTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2UPdG0ZfGxwe5AfQCOVwHFiuKzN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/STUDIA/ZadaniaCwiczenia/OneNightApplication/Server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dff1e49a-5abc-4037-b093-77e65f1d0573" name="Changes" comment="" />
+      <created>1692845049501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692845049501</updated>
+      <workItem from="1692845050746" duration="908000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
