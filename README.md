@@ -1,7 +1,7 @@
 # OneNightApp
 Business Trip Reimbursement Calculation Application
 
-The name speaks for itself - the application was created in one night due to such a tight deadline. This means that the focus had to be maximally on functionality and cutting corners in other aspects.
+The application was created in one night due to such a tight deadline. This means that the focus had to be maximally on functionality and cutting corners in other aspects.
 
 Getting Started
 	1. Clone the Repository
